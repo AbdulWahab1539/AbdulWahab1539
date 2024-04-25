@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01ee69c84a8320454a)
 
-- 🌱 I’m currently learning **Vue.js, Android Master**
+- 🌱 I’m currently learning **JetPack Compose, Android Advance**
 
 - 👨‍💻 Connect with me on [https://www.linkedin.com/in/abdulwahab1539](https://www.linkedin.com/in/abdulwahab1539)
 
