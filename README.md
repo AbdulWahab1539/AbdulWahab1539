@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Software Engineer, Crafting Apps with Millions of Downloads. I am Expert in Android with experience in Flutter and Django</h3>
 <img align="right"alt="coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01ee69c84a8320454a)
+<!-- - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01ee69c84a8320454a) -->
 
 - 🌱 I’m currently learning **JetPack Compose, Kotlin MultiPlatform(KMP)**
 
 - 👨‍💻 Connect with me on [https://www.linkedin.com/in/abdulwahab1539](https://www.linkedin.com/in/abdulwahab1539)
 
-<!-- - 📝 I regularly write articles on [https://www.linkedin.com/in/abdulwahab1539](https://www.linkedin.com/in/ameer-hamza-khan-4821a3188) -->
+<!-- - 📝 I regularly write articles on [https://www.linkedin.com/in/abdulwahab1539] -->
 
 - 📫 How to reach me **abdulwahab1539@gmail.com**
 
